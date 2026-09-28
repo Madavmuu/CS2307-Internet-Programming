@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orders>
+
+    <order>
+        <id>101</id>
+        <customer>John Doe</customer>
+        <product>Wireless Mouse</product>
+        <quantity>2</quantity>
+        <price>25.99</price>
+    </order>
+
+    <order>
+        <id>102</id>
+        <customer>Mary Smith</customer>
+        <product>Keyboard</product>
+        <quantity>1</quantity>
+        <price>45.50</price>
+    </order>
+
+    <order>
+        <id>103</id>
+        <customer>David Lee</customer>
+        <product>USB Cable</product>
+        <quantity>3</quantity>
+        <price>8.99</price>
+    </order>
+
+    <order>
+        <id>104</id>
+        <customer>Sarah Wilson</customer>
+        <product>Web Camera</product>
+        <quantity>1</quantity>
+        <price>59.99</price>
+    </order>
+
+    <order>
+        <id>105</id>
+        <customer>James Brown</customer>
+        <product>Headphones</product>
+        <quantity>2</quantity>
+        <price>35.75</price>
+    </order>
+
+    <order>
+        <id>106</id>
+        <customer>Emma Davis</customer>
+        <product>Bluetooth Speaker</product>
+        <quantity>1</quantity>
+        <price>75.00</price>
+    </order>
+
+    <order>
+        <id>107</id>
+        <customer>Robert Taylor</customer>
+        <product>Laptop Stand</product>
+        <quantity>2</quantity>
+        <price>32.50</price>
+    </order>
+
+    <order>
+        <id>108</id>
+        <customer>Olivia Martin</customer>
+        <product>Power Bank</product>
+        <quantity>1</quantity>
+        <price>29.99</price>
+    </order>
+
+    <order>
+        <id>109</id>
+        <customer>William Anderson</customer>
+        <product>External Hard Drive</product>
+        <quantity>1</quantity>
+        <price>89.99</price>
+    </order>
+
+    <order>
+        <id>110</id>
+        <customer>Sophia Thomas</customer>
+        <product>USB Keyboard</product>
+        <quantity>2</quantity>
+        <price>27.99</price>
+    </order>
+
+</orders>
